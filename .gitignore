@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local model test assets
+weights/*.png
+weights/*.jpg
+weights/*.jpeg
